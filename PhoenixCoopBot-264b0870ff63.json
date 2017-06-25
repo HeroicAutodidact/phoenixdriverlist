@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "phoenixcoopbot",
+  "private_key_id": "264b0870ff6352df51d93992aa4ce73ece4820d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnukXYtQdYIZOy\n/Glqe3CMhGH+ekh8wPKV2Ni24BxDjvxz/wrfMfgCLvzlnQ64RXojaSvNNQJGV8Hj\niJkOES2iyFFMf20k0NhdfFk5iSj5s1dfdCWa1mhSfcQTEznOl970p0QQK0Ka3VsZ\n9TsFjh8lqeapMUzTgGazChso1AId5BrGcG+IQ3YbiA0GlGA3CIvpaJKn5Xvaq4Nf\nUBwhjy5Ps62eLnu6dxLAl29qNo2ZED+XkPO3CdLHWGoYAcs9AtQg3QX6FvnfOUFQ\nuevUKU2Qv08CLfM5tkuUVrYduRQx2z8C5ZnYpixA+khzahLhc6RChQl2xuY4A+9y\nG0WmNuy9AgMBAAECggEBAJUBqPeCq8mh2sNR9pzAmRZcrWoUXL1n9JsnEDA3HSTv\nrFuoopHypG/cKpQaWW9fWciHsIAXrbOsVvW67q5OmIpbB868Dcx9NRqoU+QHdD2R\nE/gbCSVrgTZ3wG9pzxs4VLxotNDgfcVzDXIcKJkgz474R5Db2XK0SYiZW9ODtXWz\nNZxQcMEPGPPreLYhP01jtBakDsrgcwUXQUv7TPEeEklDLymIo+IUMxz0+GrSOGi0\nQPuVG1iN6Q7IjysuCI8sZLTBEkSQBsNpWhzaboJEoQoaW/0gFtLSjmCQqVuLbLl0\n57ExUPq5Vn4XcFpYJtyiG9pIVsx3uNcp+IBe3YYZxAECgYEA1z0d1xDtzQx+3W7q\ns4wPMbTzGRsUDXUYlTdrBnUrbC6iRPit3+ojMpRGLBhvWImkAImpaEVh6fNk/GX/\n4/51ObpjXSibrAD8fIaa8t+PivpkrTwXeYf9pIR1ZYzbolRjHamIv6KooLAU0rqI\nJ0WOWPiy3n5WpscpRz6VmZHWnIECgYEAx33LJ9Xy+ZJKy2wtUDJp5jqmL9XUH2Tn\nhrLaluX3xYJLxa7eaEB3qWZCn7NYDi/g2KrXKpSSMLBYkVIYeDu54Y5Cix0v8XSI\nq9Kaz7V5Cnu2CR0M86c3HN6M6TN/F/O+85XFxZ/HqxF/v1HMQW8qXkXRoq27VVn1\nwKoaLPoKoj0CgYA1nyU6+h20MsO8WLCh8Geso37Yp1VUkPKB4h+IqVIbDncgpa9z\nlDoWlLfyrle2//taovEQaBCfnyJuet7IJxF/Qz8T61T1Af3k7AfYL/fr0LuaKNlU\nTpvTC6jPlsr04v8aWa0WyOgnuBZH9W6MEhkHc1XkdicSP5W6CQ5uBtYngQKBgEjJ\ndR6LyaOV5QRj7ASe4FTIgWpisorh3jgfefIk5kqCR/NQ4oVXQFHmpdhvL2m9vmRP\nsUIwA0cQkMA1HAiCgkfyCAWKGLwYsOVAaovuwsM4cCrTFq6wDEPUT8WmrHCo1rs5\noneA3PFl6R59UfFuBh9vihW5Hej+cdRiPDq84LRhAoGATIVvoJ14zMNWe+xGcTZA\n1klTxtLq09VHGAPJHrJJCpMDs6Ben29BRnigDXfB/VYQKdFcyI4v9x9EhQF9eUZ3\ng3IdVJqhTVPlFwaZ87CCXPSCpjazHDUcvs2S9wASB7gABWXmvl4Udce7+oAqel9I\n3DUYKB6jxB92LcJDA8tZR+Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "robophoenix@phoenixcoopbot.iam.gserviceaccount.com",
+  "client_id": "107335427148695525714",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/robophoenix%40phoenixcoopbot.iam.gserviceaccount.com"
+}
